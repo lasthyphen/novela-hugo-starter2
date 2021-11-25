@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: Dijets - Articles
+  heading: Dijets - Knowledgebase
   maxWidthPX: "652"
 seo:
   image: "/images/hero-2.jpg"
